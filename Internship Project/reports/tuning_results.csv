@@ -1,0 +1,17 @@
+model,accuracy,macro_f1
+LinearSVC | C=0.5 | class_weight=balanced,0.689,0.663
+LinearSVC | C=1 | class_weight=balanced,0.684,0.6587
+LogReg | C=3 | class_weight=balanced,0.682,0.6571
+LinearSVC | C=0.5 | class_weight=None,0.6925,0.657
+LinearSVC | C=1 | class_weight=None,0.686,0.6563
+LogReg | C=10 | class_weight=balanced,0.6775,0.655
+LogReg | C=1 | class_weight=None,0.697,0.6539
+LinearSVC | C=0.1 | class_weight=balanced,0.6785,0.6534
+LogReg | C=3 | class_weight=None,0.689,0.6524
+LogReg | C=1 | class_weight=balanced,0.6715,0.6491
+LogReg | C=10 | class_weight=None,0.677,0.646
+LogReg | C=0.5 | class_weight=balanced,0.66,0.6408
+LinearSVC | C=0.1 | class_weight=None,0.6885,0.6355
+LogReg | C=0.5 | class_weight=None,0.6825,0.6244
+LogReg | C=0.1 | class_weight=balanced,0.6055,0.5883
+LogReg | C=0.1 | class_weight=None,0.6215,0.4895

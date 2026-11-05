@@ -1,0 +1,4 @@
+Dataset,Total Tweets,Empty Texts,Average Character Length,URL Tokens,USER Tokens
+Training,45583,0,106.55,0,0
+Validation,2000,0,107.15,0,0
+Test,12284,0,90.03,0,0

@@ -1,0 +1,10 @@
+Dataset,Sentiment,Percentage
+Training,Negative,15.56
+Training,Neutral,45.31
+Training,Positive,39.14
+Validation,Negative,15.6
+Validation,Neutral,43.45
+Validation,Positive,40.95
+Test,Negative,32.33
+Test,Neutral,48.33
+Test,Positive,19.33

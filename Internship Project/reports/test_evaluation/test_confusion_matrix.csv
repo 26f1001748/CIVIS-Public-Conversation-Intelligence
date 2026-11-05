@@ -1,0 +1,10 @@
+Actual Sentiment,Predicted Sentiment,Tweet Count
+Negative,Negative,2144
+Negative,Neutral,1465
+Negative,Positive,363
+Neutral,Negative,1243
+Neutral,Neutral,3662
+Neutral,Positive,1032
+Positive,Negative,170
+Positive,Neutral,674
+Positive,Positive,1531

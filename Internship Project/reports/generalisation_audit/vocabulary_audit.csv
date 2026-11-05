@@ -1,0 +1,4 @@
+Dataset,Total Tokens,Known Tokens,Unseen Tokens,Vocabulary Coverage (%),Unseen Token Rate (%),Unique Unseen Words
+Training,843755,802122,41633,95.07,4.93,31406
+Validation,37343,35294,2049,94.51,5.49,1957
+Test,175924,150333,25591,85.45,14.55,12380

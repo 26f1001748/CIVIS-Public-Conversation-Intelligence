@@ -1,0 +1,23 @@
+CIVIS - SENTIMENT MODEL VALIDATION RESULTS
+
+Selected model: LinearSVC | C=0.5 | class_weight=balanced
+Accuracy: 0.6890
+Macro-F1: 0.6630
+Weighted-F1: 0.6907
+
+CLASSIFICATION REPORT
+              precision    recall  f1-score   support
+
+    negative       0.53      0.59      0.56       312
+     neutral       0.68      0.69      0.69       869
+    positive       0.76      0.73      0.75       819
+
+    accuracy                           0.69      2000
+   macro avg       0.66      0.67      0.66      2000
+weighted avg       0.69      0.69      0.69      2000
+
+
+CONFUSION MATRIX
+[[183 104  25]
+ [112 598 159]
+ [ 51 171 597]]
